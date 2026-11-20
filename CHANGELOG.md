@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.5 - 2026-11-20
+
+- Move the repository to the jimlertech GitHub organization and update the repository, issues and homepage links.
+
 ## 0.1.4 - 2026-09-04
 
 - Display dynamic row counts in the top toolbar metadata during filtering and search.
