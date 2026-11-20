@@ -7,12 +7,12 @@
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/purduepete/csv-table-viewer-vscode-extension.git"
+        "url": "https://github.com/jimlertech/csv-table-viewer-vscode-extension.git"
     },
     "bugs": {
-        "url": "https://github.com/purduepete/csv-table-viewer-vscode-extension/issues"
+        "url": "https://github.com/jimlertech/csv-table-viewer-vscode-extension/issues"
     },
-    "homepage": "https://github.com/purduepete/csv-table-viewer-vscode-extension#readme",
+    "homepage": "https://github.com/jimlertech/csv-table-viewer-vscode-extension#readme",
     "engines": {
         "vscode": "^1.95.0"
     },
